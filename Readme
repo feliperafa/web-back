@@ -1,0 +1,4 @@
+Algumas das tags utilizadas dentro do sistemas podem ser consultadas aqui para entender melhor o proposito de cada uma e o que faz 
+// --transpile-only => faz a transpilação do codigo sem ficar verificando erros
+
+  // --ignore-watch node_modules => não vai precisar ler o que vai se atualizar dentro da pasta node_modules deixando mais rapido o processo
