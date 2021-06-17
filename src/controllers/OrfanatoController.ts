@@ -60,7 +60,7 @@ export default {
             longitude,
             about,
             instrucao,
-            aberto_fds,
+            aberto_fds: horario_atendimento === 'true',
             horario_atendimento,
             imagens: imgs
         }
